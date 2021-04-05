@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\practice at home\StaticandPrivate\StaticandPrivate\bin\Debug\StaticandPrivate.exe.config
+G:\C# Projects\Console program\practice at home\StaticandPrivate\StaticandPrivate\bin\Debug\StaticandPrivate.exe
+G:\C# Projects\Console program\practice at home\StaticandPrivate\StaticandPrivate\bin\Debug\StaticandPrivate.pdb
+G:\C# Projects\Console program\practice at home\StaticandPrivate\StaticandPrivate\obj\Debug\StaticandPrivate.csprojAssemblyReference.cache
+G:\C# Projects\Console program\practice at home\StaticandPrivate\StaticandPrivate\obj\Debug\StaticandPrivate.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\practice at home\StaticandPrivate\StaticandPrivate\obj\Debug\StaticandPrivate.exe
+G:\C# Projects\Console program\practice at home\StaticandPrivate\StaticandPrivate\obj\Debug\StaticandPrivate.pdb

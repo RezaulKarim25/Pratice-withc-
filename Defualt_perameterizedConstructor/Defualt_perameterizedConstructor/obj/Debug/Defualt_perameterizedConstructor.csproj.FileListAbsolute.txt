@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\practice at home\Defualt_perameterizedConstructor\Defualt_perameterizedConstructor\bin\Debug\Defualt_perameterizedConstructor.exe.config
+G:\C# Projects\Console program\practice at home\Defualt_perameterizedConstructor\Defualt_perameterizedConstructor\bin\Debug\Defualt_perameterizedConstructor.exe
+G:\C# Projects\Console program\practice at home\Defualt_perameterizedConstructor\Defualt_perameterizedConstructor\bin\Debug\Defualt_perameterizedConstructor.pdb
+G:\C# Projects\Console program\practice at home\Defualt_perameterizedConstructor\Defualt_perameterizedConstructor\obj\Debug\Defualt_perameterizedConstructor.csprojAssemblyReference.cache
+G:\C# Projects\Console program\practice at home\Defualt_perameterizedConstructor\Defualt_perameterizedConstructor\obj\Debug\Defualt_perameterizedConstructor.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\practice at home\Defualt_perameterizedConstructor\Defualt_perameterizedConstructor\obj\Debug\Defualt_perameterizedConstructor.exe
+G:\C# Projects\Console program\practice at home\Defualt_perameterizedConstructor\Defualt_perameterizedConstructor\obj\Debug\Defualt_perameterizedConstructor.pdb

@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\practice at home\Distructor\Distructor\bin\Debug\Distructor.exe.config
+G:\C# Projects\Console program\practice at home\Distructor\Distructor\bin\Debug\Distructor.exe
+G:\C# Projects\Console program\practice at home\Distructor\Distructor\bin\Debug\Distructor.pdb
+G:\C# Projects\Console program\practice at home\Distructor\Distructor\obj\Debug\Distructor.csprojAssemblyReference.cache
+G:\C# Projects\Console program\practice at home\Distructor\Distructor\obj\Debug\Distructor.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\practice at home\Distructor\Distructor\obj\Debug\Distructor.exe
+G:\C# Projects\Console program\practice at home\Distructor\Distructor\obj\Debug\Distructor.pdb

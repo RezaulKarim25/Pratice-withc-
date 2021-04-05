@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\practice at home\AccessModifiers\Assembly1\bin\Debug\Assembly1.exe.config
+G:\C# Projects\Console program\practice at home\AccessModifiers\Assembly1\bin\Debug\Assembly1.exe
+G:\C# Projects\Console program\practice at home\AccessModifiers\Assembly1\bin\Debug\Assembly1.pdb
+G:\C# Projects\Console program\practice at home\AccessModifiers\Assembly1\obj\Debug\Assembly1.csprojAssemblyReference.cache
+G:\C# Projects\Console program\practice at home\AccessModifiers\Assembly1\obj\Debug\Assembly1.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\practice at home\AccessModifiers\Assembly1\obj\Debug\Assembly1.exe
+G:\C# Projects\Console program\practice at home\AccessModifiers\Assembly1\obj\Debug\Assembly1.pdb

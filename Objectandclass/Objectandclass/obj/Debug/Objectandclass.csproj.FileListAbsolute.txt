@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\practice at home\Objectandclass\Objectandclass\bin\Debug\Objectandclass.exe.config
+G:\C# Projects\Console program\practice at home\Objectandclass\Objectandclass\bin\Debug\Objectandclass.exe
+G:\C# Projects\Console program\practice at home\Objectandclass\Objectandclass\bin\Debug\Objectandclass.pdb
+G:\C# Projects\Console program\practice at home\Objectandclass\Objectandclass\obj\Debug\Objectandclass.csprojAssemblyReference.cache
+G:\C# Projects\Console program\practice at home\Objectandclass\Objectandclass\obj\Debug\Objectandclass.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\practice at home\Objectandclass\Objectandclass\obj\Debug\Objectandclass.exe
+G:\C# Projects\Console program\practice at home\Objectandclass\Objectandclass\obj\Debug\Objectandclass.pdb

@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\practice at home\Methods\Methods\bin\Debug\Methods.exe.config
+G:\C# Projects\Console program\practice at home\Methods\Methods\bin\Debug\Methods.exe
+G:\C# Projects\Console program\practice at home\Methods\Methods\bin\Debug\Methods.pdb
+G:\C# Projects\Console program\practice at home\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+G:\C# Projects\Console program\practice at home\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\practice at home\Methods\Methods\obj\Debug\Methods.exe
+G:\C# Projects\Console program\practice at home\Methods\Methods\obj\Debug\Methods.pdb

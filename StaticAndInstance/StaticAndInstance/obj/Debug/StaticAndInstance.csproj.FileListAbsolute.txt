@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\Phycal Study\StaticAndInstance\StaticAndInstance\bin\Debug\StaticAndInstance.exe.config
+G:\C# Projects\Console program\Phycal Study\StaticAndInstance\StaticAndInstance\bin\Debug\StaticAndInstance.exe
+G:\C# Projects\Console program\Phycal Study\StaticAndInstance\StaticAndInstance\bin\Debug\StaticAndInstance.pdb
+G:\C# Projects\Console program\Phycal Study\StaticAndInstance\StaticAndInstance\obj\Debug\StaticAndInstance.csprojAssemblyReference.cache
+G:\C# Projects\Console program\Phycal Study\StaticAndInstance\StaticAndInstance\obj\Debug\StaticAndInstance.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\Phycal Study\StaticAndInstance\StaticAndInstance\obj\Debug\StaticAndInstance.exe
+G:\C# Projects\Console program\Phycal Study\StaticAndInstance\StaticAndInstance\obj\Debug\StaticAndInstance.pdb

@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\Chapter13\Chapter13\Implementing-Interface\bin\Debug\Implementing-Interface.exe.config
+G:\C# Projects\Console program\Chapter13\Chapter13\Implementing-Interface\bin\Debug\Implementing-Interface.exe
+G:\C# Projects\Console program\Chapter13\Chapter13\Implementing-Interface\bin\Debug\Implementing-Interface.pdb
+G:\C# Projects\Console program\Chapter13\Chapter13\Implementing-Interface\obj\Debug\Implementing-Interface.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\Chapter13\Chapter13\Implementing-Interface\obj\Debug\Implementing-Interface.exe
+G:\C# Projects\Console program\Chapter13\Chapter13\Implementing-Interface\obj\Debug\Implementing-Interface.pdb
+G:\C# Projects\Console program\Chapter13\Chapter13\Implementing-Interface\obj\Debug\Implementing-Interface.csprojAssemblyReference.cache

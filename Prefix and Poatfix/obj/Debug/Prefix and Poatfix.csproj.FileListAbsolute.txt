@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\10-03-2021\Prefix and Poatfix\Prefix and Poatfix\bin\Debug\Prefix and Poatfix.exe.config
+G:\C# Projects\Console program\10-03-2021\Prefix and Poatfix\Prefix and Poatfix\bin\Debug\Prefix and Poatfix.exe
+G:\C# Projects\Console program\10-03-2021\Prefix and Poatfix\Prefix and Poatfix\bin\Debug\Prefix and Poatfix.pdb
+G:\C# Projects\Console program\10-03-2021\Prefix and Poatfix\Prefix and Poatfix\obj\Debug\Prefix and Poatfix.csprojAssemblyReference.cache
+G:\C# Projects\Console program\10-03-2021\Prefix and Poatfix\Prefix and Poatfix\obj\Debug\Prefix and Poatfix.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\10-03-2021\Prefix and Poatfix\Prefix and Poatfix\obj\Debug\Prefix and Poatfix.exe
+G:\C# Projects\Console program\10-03-2021\Prefix and Poatfix\Prefix and Poatfix\obj\Debug\Prefix and Poatfix.pdb

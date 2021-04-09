@@ -1,0 +1,7 @@
+G:\C# Projects\Console program\Final Project\Final Project for Exam\Question number 01\bin\Debug\Question number 01.exe.config
+G:\C# Projects\Console program\Final Project\Final Project for Exam\Question number 01\bin\Debug\Question number 01.exe
+G:\C# Projects\Console program\Final Project\Final Project for Exam\Question number 01\bin\Debug\Question number 01.pdb
+G:\C# Projects\Console program\Final Project\Final Project for Exam\Question number 01\obj\Debug\Question number 01.csprojAssemblyReference.cache
+G:\C# Projects\Console program\Final Project\Final Project for Exam\Question number 01\obj\Debug\Question number 01.csproj.CoreCompileInputs.cache
+G:\C# Projects\Console program\Final Project\Final Project for Exam\Question number 01\obj\Debug\Question number 01.exe
+G:\C# Projects\Console program\Final Project\Final Project for Exam\Question number 01\obj\Debug\Question number 01.pdb
